@@ -93,6 +93,7 @@ nav p{
 }
 
 .intro nav{
+  background: rgba(0,0,0,0) url("../img/logo.PNG");
   width: 100%;
   display: flex;
   align-items: center;
