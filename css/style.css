@@ -227,7 +227,7 @@ nav p{
 
 .upcomingevents{
   background-color: black;
-  background: rgba(0,0,0,0.7) url("../img/black.jpg");
+  background: rgba(0,0,0,0) url("../img/black.jpg");
   height: 40vh;
   background-repeat: no-repeat;
   background-position: center;
